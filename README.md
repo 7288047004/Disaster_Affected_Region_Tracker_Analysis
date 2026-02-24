@@ -2,9 +2,7 @@
 
 **Introduction**
 
-  This project aims to analyze disaster events across various regions and measure their impact in terms of affected population and economic loss.
-
-   *The system integrates:*
+  The Disaster Affected Region Tracker Analysis project focuses on analyzing disaster-related data to identify affected regions, assess impact levels, and generate insights for better decision-making.
    
      Relational Database (MySQL)
      Python Data Analysis (Pandas)
